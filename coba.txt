@@ -2,3 +2,4 @@ WPU-PKPPK :
 1. membuat aplikasi master data
 2. membuat aplikasi master gudang
 3. membuat aplikasi master laporan
+4. membuat aplikasi terorganisir
